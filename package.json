@@ -1,0 +1,21 @@
+{
+  "name": "sconix-2023",
+  "displayName": "Sconix 2023",
+  "description": "Sconix Theme 2023!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sconix Theme 2023",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sconix Theme 2023-color-theme.json"
+      }
+    ]
+  }
+}
